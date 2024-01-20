@@ -23,7 +23,7 @@
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white">
+        <img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
         <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white">
     </div>
