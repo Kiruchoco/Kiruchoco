@@ -55,7 +55,7 @@
     </div><br>
 </div>
 <br>
-<h2> 📊Coding Stats </h2>
+<h2> 📈Coding Stats </h2>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
 
