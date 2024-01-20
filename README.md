@@ -50,5 +50,4 @@
 </div>
 <br>
 <h2 align="center"> 🛠 Development Stats 🛠 </h2>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
