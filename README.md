@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=703EE5&text=&animation=twinkling&height=100)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration3500&pause=3&color=703EE5&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Kyle's+GitHub!)
 
+## Most Used Languages 🎶
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='ChocoKiru'&layout=compact&custom_title=My&nbsp;Language&nbsp;)]
+
 ## Developement Tools 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>Frontend</strong></p>
