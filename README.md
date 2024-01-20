@@ -51,8 +51,8 @@
     <br/>
     <p><strong>Developement Tools</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white">
         <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+        <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white">
         <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
     </div><br>
 </div>
