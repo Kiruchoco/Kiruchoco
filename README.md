@@ -2,6 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration3500&pause=3&color=703EE5&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Kyle's+GitHub!)
 
 <h2> 🛠 Tech Stack 🛠 </h2>
+<br>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>Frontend</strong></p>
     <div>
@@ -50,4 +51,5 @@
 </div>
 <br>
 <h2> 🛠 Development Stats 🛠 </h2>
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
