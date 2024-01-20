@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=703EE5&text=&animation=twinkling&height=100)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration3500&pause=3&color=703EE5&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Kyle's+GitHub!)
 
-<div align="center">
-  [![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiruchoco&count_private=true&custom_title=Kiruchoco's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
-</div>
+[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiruchoco&count_private=true&custom_title=Kiruchoco's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
 
 ## 💪Skills
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
