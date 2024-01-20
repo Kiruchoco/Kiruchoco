@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration3500&pause=3&color=703EE5&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Kyle's+GitHub!)
 
 <p align="center"> 
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiruchoco&count_private=true&custom_title=Kiruchoco's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiruchoco&theme=vue&show_icons=true"/></a>
 </p>
 
 <p align="center"> 
