@@ -9,11 +9,12 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=bootstrap&logoColor=white">
 
 // Backend
-
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
 
-// AI
+// Data Analysis & AI
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white">
 
@@ -21,17 +22,12 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 
+// IOT
+<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
+
 // Server
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+
+
 
 //Development Tools
-
-
-
-
-
-//Python
-
-//MysQL
-
-//Django
