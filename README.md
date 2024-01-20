@@ -49,12 +49,11 @@
     </div><br>
 </div>
 <br>
-<h2> 📊Coding Stats </h2>
+<h2> 📊Stats </h2>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
 
 <br>
-<h2> 🧷GIT Stats </h2>
 
 [![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiruchoco&count_private=true&custom_title=Kiruchoco's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
