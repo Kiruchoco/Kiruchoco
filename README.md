@@ -53,3 +53,5 @@
 <h2> 🛠 Development Stats 🛠 </h2>
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
