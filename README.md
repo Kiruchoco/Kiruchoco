@@ -54,3 +54,11 @@
         <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
     </div><br>
 </div>
+
+<h2 align="center"> 🛠 Development Stats 🛠 </h2>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiruchoco&show_icons=true"/></a>
+</p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr)
+
