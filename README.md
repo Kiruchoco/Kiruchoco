@@ -5,7 +5,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<div aligh="center" style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
