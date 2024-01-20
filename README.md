@@ -54,11 +54,15 @@
         <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
     </div><br>
 </div>
+<div align=center>
+	<br>
+	
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
 
-<h2 align="center"> 🛠 Development Stats 🛠 </h2>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiruchoco&show_icons=true"/></a>
-</p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr)
+<br>
+<p>🏆 Baekjoon solved Rank 🏆</p>
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
+</div>
+<br>![](./profile-3d-contrib/profile-green-animate.svg)
 
