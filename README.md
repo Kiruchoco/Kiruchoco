@@ -1,12 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=703EE5&text=&animation=twinkling&height=100)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=60&duration3500&pause=3&color=703EE5&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Kyle's+GitHub!)
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiruchoco&show_icons=true"/></a>
-</p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
-
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
 <div align="center" style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>Frontend</strong></p>
@@ -56,8 +50,6 @@
 </div>
 <br>
 <h2 align="center"> 🛠 Development Stats 🛠 </h2>
-<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Kiruchoco&show_icons=true"/></a>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiru1013kr)](https://solved.ac/kiru1013kr/)
-</p>
 
