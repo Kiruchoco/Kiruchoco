@@ -37,12 +37,6 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
     </div>
     <br/>
-    <p><strong>IoT</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
-        <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white">
-    </div>
-    <br/>
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
