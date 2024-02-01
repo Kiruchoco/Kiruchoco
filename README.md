@@ -12,7 +12,6 @@
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
     </div>
     <br/>
